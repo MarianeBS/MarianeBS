@@ -10,7 +10,6 @@
 <div>
       <p> 🔭 Atualmente estudando na Etec Zona Leste </p>
       <p> 🌱 Aprendendo PHP e Kotlin </p>
-      <p> 😄 Pronome: Ela/dela </p>
       <p> 🥂 Aos surtos que o TI me proporciona </p> 
 </div>      
   
@@ -29,7 +28,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
   
-  ##
+##
   
 <div align="center"> 
   <a href="https://discordapp.com/users/Mah_Soul#6475" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -38,9 +37,7 @@
 </div>
 
 ##
+
 <div align="center">
 <h3> 🚀 Ao infinito e além 🚀 </h3>
 </div>
-
-
-
