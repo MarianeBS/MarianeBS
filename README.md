@@ -1,10 +1,19 @@
-### Hello World! 
-### Aqui é a Mariane 🌸
+<h2 align="center"> Hello World! </h2>
 
-- 🔭 Atualmente estudando na Etec Zona Leste
-- 🌱 Aprendendo PHP e Kotlin
-- 😄 Pronome: Ela/dela
-- 🥂 Aos surtos que o TI me proporciona
+<div align="center">
+  <h3> Aqui é a Mariane 🌸 </h3>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/7df3e82fabb37fa3c3fb18acfce30def.gif" width="250" height="250" border="0" alt="https://picasion.com/" /></a>
+</div>  
+
+##
+
+<div>
+      <p> 🔭 Atualmente estudando na Etec Zona Leste </p>
+      <p> 🌱 Aprendendo PHP e Kotlin </p>
+      <p> 😄 Pronome: Ela/dela </p>
+      <p> 🥂 Aos surtos que o TI me proporciona </p> 
+</div>      
+  
 ##
 
 <div align="center">
@@ -32,4 +41,6 @@
 <div align="center">
 <h3> 🚀 Ao infinito e além 🚀 </h3>
 </div>
+
+
 
