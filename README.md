@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3> Aqui é a Mariane 🌸 </h3>
-  <a href="https://picasion.com/"><img src="https://1.bp.blogspot.com/-iBlNEHwO1vY/WxtZRPcYtNI/AAAAAAAAHnU/MSoSpBFiZAYsTccwRsydHuij3XpHbnvKACLcBGAs/s1600/gif-2.gif" width="1000" height="500" border="0" alt="https://picasion.com/" /></a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/7df3e82fabb37fa3c3fb18acfce30def.gif" width="250" height="250" border="0" alt="https://picasion.com/" /></a>
 </div>  
 
 ##
