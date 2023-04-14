@@ -9,7 +9,6 @@
 
 <div>
       <p> 🔭 Atualmente estudando na Etec Zona Leste </p>
-      <p> 🌱 Aprendendo PHP e Kotlin </p>
       <p> 🥂 Aos surtos que o TI me proporciona </p> 
 </div>      
   
