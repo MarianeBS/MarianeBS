@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO WORLD,+I+am+Mariane+Souza;I+am+eighteen+years+old;I'm+from+Brazil;Studying+Systems+Development+;Welcome!+:%29)](https://git.io/typing-svg)
+
+
 <h2 align="center"> Hello World! </h2>
 
 <div align="center">
