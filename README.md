@@ -14,6 +14,15 @@
   
 ##
 
+## Hi there 👋
+
+Welcome to my page!
+<img src="https://readme-typing-svg.herokuapp.com/?lines=dominayo;Full-Stack%20Developer;Web%20and%20Blockchain%20master;AI%20engineer;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
+### 👍 SKILLS 
+
+
 <div align="center">
   <a href="https://github.com/MarianeBS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dracula"/>
@@ -40,11 +49,7 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 
 
