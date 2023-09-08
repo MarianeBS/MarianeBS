@@ -11,8 +11,8 @@
 <div align="center">
   <a href="https://github.com/MarianeBS">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dracula"/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianeBS&theme=2077)
 </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianeBS&theme=2077)
 
 ##
 
