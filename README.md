@@ -37,7 +37,8 @@
 
 ##
 
-![snake gif](https://github.com/MarianeBS/MarianeBS/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 
 ##
 
