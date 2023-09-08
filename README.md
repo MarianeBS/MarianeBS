@@ -11,7 +11,10 @@
 <div align="center">
   <a href="https://github.com/MarianeBS">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dracula"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianeBS&theme=2077)
 </div>
+
+##
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
