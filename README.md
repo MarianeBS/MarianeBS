@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO WORLD!;I%20am%20 Mariane%20Souza;I%20study%20System%20Development;Welcome%20to%20my%20Github%20:);8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World;Full-Stack%20Developer;Web%20and%20Blockchain%20master;AI%20engineer;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 
 <div align="center">
   <h3> Aqui é a Mariane 🌸 </h3>
