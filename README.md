@@ -1,8 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World;I%20am%20Mariane%20Souza;I%20am%2018%20years%20old;I%20study%20System%20Development%20at%20ETEC%20Zona%20Leste;Welcome%20to%20my%20GitHub&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-
 <div align="center">
-  <h3> Aqui é a Mariane 🌸 </h3>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/7df3e82fabb37fa3c3fb18acfce30def.gif" width="250" height="250" border="0" alt="https://picasion.com/" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I%20am%20Mariane%20Souza;I%20am%2018%20years%20old;I%20study%20System%20Development%20at%20ETEC%20Zona%20Leste;Welcome%20to%20my%20GitHub&font=Pacifico&center=true&width=650&height=120&color=ff00a3&vCenter=true&size=45%22">
 </div>  
 
 ##
