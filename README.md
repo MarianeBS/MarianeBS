@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I%20am%20Mariane%20Souza;I%20am%2018%20years%20old;I%20study%20System%20Development;Welcome%20to%20my%20GitHub&font=Pacifico&center=true&width=650&height=120&color=ff00a3&vCenter=true&size=45%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?  lines=Hello%20World!;I%20am%20Mariane%20Souza;I%20am%2018%20years%20old;I%20study%20System%20Development;Welcome%20to%20my%20GitHub&font=Pacifico&center=true&width=650&height=120&color=ff00a3&vCenter=true&size=45%22">
 </div>  
 
 ##
@@ -11,13 +11,9 @@
   
 ##
 
-## Hi there 👋
-
-
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-### 👍 SKILLS 
-
+##
 
 <div align="center">
   <a href="https://github.com/MarianeBS">
@@ -42,15 +38,9 @@
 
 ##
 
-
-
-
-
-
-
-
-##
-
 <div align="center">
-<h3> 🚀 Ao infinito e além 🚀 </h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Today%20is%20the%20first%20day;Of%20the%20rest%20of%20your%20life&font=Pacifico&center=true&width=550&height=90&color=ff00a3&vCenter=true&size=45%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Of%20the%20rest%20of%20your%20life;Today%20is%20the%20first%20day&font=Pacifico&center=true&width=550&height=90&color=ff00a3&vCenter=true&size=45%22">
+
 </div>
+
