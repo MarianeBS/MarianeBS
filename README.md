@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://github.com/MarianeBS">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dracula"/>   
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&layout=compact&show_icons=true&theme=Gradiente"/>    
 </div>
 
 ##
