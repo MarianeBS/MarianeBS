@@ -8,7 +8,7 @@
 
 ##
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+<img align="center" src="https://i.redd.it/45luyr8bs2ib1.png">
 
 ##
 
