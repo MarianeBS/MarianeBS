@@ -4,11 +4,7 @@
 
 ##
 
-<img src="https://i.redd.it/45luyr8bs2ib1.png">
-
-##
-
-<img align="center" src="https://i.redd.it/45luyr8bs2ib1.png">
+<img align="center" src="https://i.redd.it/45luyr8bs2ib1.png" height="400">
 
 ##
 
