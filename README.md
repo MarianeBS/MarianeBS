@@ -4,7 +4,7 @@
 
 ##
 
-<img src="https://i.redd.it/hpc3zhy71rcb1.jpg">
+<img src="https://i.redd.it/45luyr8bs2ib1.png">
 
 ##
 
