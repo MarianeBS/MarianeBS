@@ -4,7 +4,9 @@
 
 ##
 
-<img align="center" src="https://i.redd.it/45luyr8bs2ib1.png" height="600">
+<div align="center">
+  <img align="center" src="https://i.redd.it/45luyr8bs2ib1.png" height="550">
+</div>
 
 ##
 
