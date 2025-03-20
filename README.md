@@ -5,21 +5,15 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/MarianeBS">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&layout=compact&show_icons=true&theme=Gradiente"/>    
-</div>
-
   <a href="#statistics">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
-      
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?          username=MarianeBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
   </a>
+  
 ##
 
-#AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
+# AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
 
 ## 🖥️ TECNOLOGIAS FRONT-END
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
