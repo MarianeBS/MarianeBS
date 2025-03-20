@@ -2,11 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I%20am%20Mariane%20Souza;I%20am%2018%20years%20old;I%20study%20System%20Development;Welcome%20to%20my%20GitHub&font=Pacifico&center=true&width=650&height=120&color=1fe0bf&vCenter=true&size=45%22">
 </div>
 
-##
-
-<div align="center">
-  <img align="center" src="https://i.redd.it/45luyr8bs2ib1.png" height="550">
-</div>
 
 ##
 
@@ -36,8 +31,4 @@
 
 ##
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Today%20is%20the%20first%20day;Of%20the%20rest%20of%20your%20life&font=Pacifico&center=true&width=650&height=120&color=E01F40&vCenter=true&size=45%22">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Of%20the%20rest%20of%20your%20life;Today%20is%20the%20first%20day&font=Pacifico&center=true&width=650&height=120&color=E01F40&vCenter=true&size=45%22">
-</div>
 
