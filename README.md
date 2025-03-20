@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I%20am%20Mariane%20Souza;I%20am%2018%20years%20old;I%20study%20System%20Development;Welcome%20to%20my%20GitHub&font=Pacifico&center=true&width=650&height=120&color=1fe0bf&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;Eu%20sou%20Mariane%20Souza;Eu%20tenho%2019%20anos;Eu%20estudo%20Análise%20&%20Desenvolvimento%20de%20Sistemas;Bem-vindo%20ao%20meu%20GitHub!&font=Pacifico&center=true&width=650&height=120&color=1fe0bf&vCenter=true&size=45%22">
 </div>
 
 
