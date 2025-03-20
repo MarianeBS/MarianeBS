@@ -23,7 +23,7 @@
 
 
 ## 🖥️ TECNOLOGIAS BACK-END
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoSize=100)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoSize=amg)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
