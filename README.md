@@ -15,7 +15,7 @@
 
 ##
 <div align="center">
-    <img style="height: 50%; width: 50%;" src="https://giffiles.alphacoders.com/215/215837.gif">
+    <img style="height: 50%; width: 50%;" src="www.pexels.com/pt-br/foto/close-up-da-folha-326055/">
 
 
   <a href="#statistics" >
