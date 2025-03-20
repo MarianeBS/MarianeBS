@@ -9,8 +9,8 @@
    </a>
    <br>
   <a href="#statistics">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
       
   </a>
 
