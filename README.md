@@ -7,8 +7,11 @@
 
 #### - Estudante de Análise e Desenvolvimento de Sistemas na FATEC da Zona Leste.
 #### - Estagiária na IBM Brasil, no setor de Consulting.
-### - Fã de Guerra dos Tronos e Orgulho e Preconceito.
-
+#### - Fã de Guerra dos Tronos e Orgulho e Preconceito.
+#### - Gosto musical duvidoso.
+#### - Livro favorito: O caçador de pipas, Khaled Rosseini 
+#### - Cor: Rosa
+#### - Estação: Primavera
 
 ##
   <a href="#statistics">
