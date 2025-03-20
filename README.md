@@ -14,7 +14,11 @@
 #### - Estação: Primavera
 
 ##
-  <a href="#statistics">
+<div align="center">
+    <img style="height: 50%; width: 50%;" src="https://giffiles.alphacoders.com/215/215837.gif">
+
+
+  <a href="#statistics" >
     <img height="300em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
    </a>
    <br>
@@ -23,6 +27,7 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
       
   </a>
+</div>
 
 ## AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
 
