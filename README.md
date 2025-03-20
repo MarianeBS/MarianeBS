@@ -3,6 +3,13 @@
 </div>
 
 
+## Quem é Mariane Souza?
+
+#### - Estudante de Análise e Desenvolvimento de Sistemas na FATEC da Zona Leste.
+#### - Estagiária na IBM Brasil, no setor de Consulting.
+### - Fã de Guerra dos Tronos e Orgulho e Preconceito.
+
+
 ##
   <a href="#statistics">
     <img height="300em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
