@@ -15,8 +15,8 @@
 
 ##
 <div align="center">
-    <img style="height: 80%; width: 80%;" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
-
+    <img style="height: 80%; width: 80%; border: solid 2px" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+    <br>
 
   <a href="#statistics" >
     <img height="300em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
