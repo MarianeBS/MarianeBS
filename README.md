@@ -12,7 +12,14 @@
   <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
   </a>
-  
+
+
+  <a href="#statistics">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&theme=blue-green"/>
+      
+  </a>
 ##
 
 # AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
