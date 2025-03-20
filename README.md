@@ -32,7 +32,8 @@
       
   </a>
 </div>
-##
+
+
 ## AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
 
 ### 🖥️ TECNOLOGIAS FRONT-END
