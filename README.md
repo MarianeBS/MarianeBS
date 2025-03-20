@@ -5,17 +5,17 @@
 
 ## Quem é Mariane Souza?
 
-#### - Estudante de Análise e Desenvolvimento de Sistemas na FATEC da Zona Leste.
-#### - Estagiária na IBM Brasil, no setor de Consulting.
-#### - Fã de Guerra dos Tronos e Orgulho e Preconceito.
-#### - Gosto musical duvidoso.
-#### - Livro favorito: O caçador de pipas, Khaled Rosseini 
-#### - Cor: Rosa
-#### - Estação: Primavera
+#### - 📒 Estudante de Análise e Desenvolvimento de Sistemas na FATEC da Zona Leste.
+#### - 💼 Estagiária na IBM Brasil, no setor de Consulting.
+#### - ⚔️ Fã de Guerra dos Tronos e Orgulho e Preconceito.
+#### - 🎶 Gosto musical duvidoso.
+#### - 📖 Livro favorito: O caçador de pipas, Khaled Rosseini 
+#### - 🦩 Cor: Rosa
+#### - 🌸 Estação: Primavera
 
 ##
 <div align="center">
-    <img style="height: 50%; width: 50%;" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+    <img style="height: 50%; width: 50%;" src="https://giffiles.alphacoders.com/215/215837.gif">
 
 
   <a href="#statistics" >
