@@ -15,7 +15,7 @@
 
 ##
 <div align="center">
-    <img style="height: 50%; width: 50%;" src="https://www.pexels.com/pt-br/foto/close-up-da-folha-326055/">
+    <img style="height: 50%; width: 50%;" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
 
   <a href="#statistics" >
