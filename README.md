@@ -3,35 +3,14 @@
 </div>
 
 
-## Quem é Mariane Souza?
+## Who is Mariane Souza?
 
-#### - 📒 Estudante de Análise e Desenvolvimento de Sistemas na FATEC da Zona Leste.
-#### - 💼 Estagiária na IBM Brasil, no setor de Consulting.
-#### - ⚔️ Fã de Guerra dos Tronos e Orgulho e Preconceito.
-#### - 🎶 Gosto musical duvidoso.
-#### - 📖 Livro favorito: O caçador de pipas, Khaled Rosseini 
-#### - 🦩 Cor: Rosa
-#### - 🌸 Estação: Primavera
-
-##
-<div align="center">
-    <img style="height: 80%; width: 80%; border: solid 2px" src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
-    <br>
-</div>
-
-##
-
-<div align="center">
-  <a href="#statistics" >
-    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=MarianeBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
-   </a>
-   <br>
-  <a href="#statistics">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeBS&theme=blue-green"/>
-      
-  </a>
-</div>
+### - 📒 Análise e Desenvolvimento de Sistemas 4/4.
+### - 📒 Gestão de Tecnologia da Informação 1/4 
+### - 💼 Estagiária na IBM Brasil, no setor de Consulting.
+### - 📖 Livro favorito: O caçador de pipas, Khaled Rosseini 
+### - 🦩 Cor: Rosa
+### - 🌸 Estação: Primavera
 
 
 ## AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
