@@ -5,12 +5,12 @@
 
 ## Who is Mariane Souza?
 
-### - 📒 Análise e Desenvolvimento de Sistemas 4/4.
-### - 📒 Gestão de Tecnologia da Informação 1/4 
-### - 💼 Estagiária na IBM Brasil, no setor de Consulting.
-### - 📖 Livro favorito: O caçador de pipas, Khaled Rosseini 
-### - 🦩 Cor: Rosa
-### - 🌸 Estação: Primavera
+### - 🎓 Analysis and Systems Development 4/4.
+### - 📒 Information Technology Management 1/4 
+### - 💼 Intern at IBM Brazil, in the Consulting sector
+### - 📖 Favorite book: The Kite Runner, Khaled Hosseini
+### - 🦩 Color: Pink
+### - 🌸 Season: Spring
 
 
 ## AQUI VOCÊ ENCONTRARÁ PROJETOS CONTENDO:
